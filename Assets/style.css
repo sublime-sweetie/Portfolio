@@ -9,7 +9,7 @@
     position: relative;
     font-family: "Goudy Bookletter 1911", sans-serif;
     font-size: 20px;
-    background-color: #FDF8F5;
+    background-color: #59e0fc;
     color: #4F4846;
   }
   
@@ -38,7 +38,7 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #266150;
+    background-color:#ff4036;
   }
   
   header {
@@ -111,4 +111,6 @@
   .text-right {
     text-align: right;
   }
+
+  
   
